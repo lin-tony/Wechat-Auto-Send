@@ -11,7 +11,7 @@ itchat是一个开源的微信个人号接口，本程序通过其完成数据�
 通过itchat和图灵机器人每日定时发送天气预报到特定个人和群聊。
 
 ## 参考
-[http://itchat.readthedocs.io/zh/latest/](http://itchat.readthedocs.io/zh/latest/)
+[http://itchat.readthedocs.io/zh/latest](http://itchat.readthedocs.io/zh/latest)
 [https://segmentfault.com/a/1190000009420701](https://segmentfault.com/a/1190000009420701)
 [https://www.cnblogs.com/jmmchina/p/6692149.html](https://www.cnblogs.com/jmmchina/p/6692149.html)
 [http://blog.csdn.net/qcyfred/article/details/72923850](http://blog.csdn.net/qcyfred/article/details/72923850)
