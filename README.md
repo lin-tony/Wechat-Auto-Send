@@ -1,4 +1,4 @@
-# wechat-auto-send
+# Wechat-Auto-Send
 微信自动回复(接入图灵机器人)  每日发送天气预报
 
 ## itchat
